@@ -24,3 +24,7 @@ The distribution of the families financial health scores
 
 ![image](https://github.com/user-attachments/assets/17e08282-e47d-4f0d-bf19-f842fb455ae9)
 
+
+### Streamlit web app interface for scoring
+This is the Interface of the created Streamlit web app
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/28c50882-0144-4eeb-941f-4449cbf3364f">
