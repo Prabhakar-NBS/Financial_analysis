@@ -18,3 +18,9 @@ have poor financial scores.
 ### This image shows the perfomence of the Random Forest Regressor, which predicts the next month savings of the families
 
 ![image](https://github.com/user-attachments/assets/21bc63c0-c5b9-42d4-8e19-db507e323efa)
+
+
+The distribution of the families financial health scores
+
+![image](https://github.com/user-attachments/assets/17e08282-e47d-4f0d-bf19-f842fb455ae9)
+
